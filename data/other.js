@@ -5,23 +5,23 @@ var augments = {
     "power": 0,
     "tertiary": 0
   },
-  "Augment 73": {
-    "rating": 276,
-    "endurance": 126,
-    "power": 126,
-    "tertiary": 95
+  "Augment 83 (blue)": {
+    "rating": 296,
+    "endurance": 163,
+    "power": 163,
+    "tertiary": 123
   },
-  "Augment 74": {
-    "rating": 286,
-    "endurance": 144,
-    "power": 144,
-    "tertiary": 108
+  "Augment 86 (blue)": {
+    "rating": 302,
+    "endurance": 175,
+    "power": 175,
+    "tertiary": 133
   },
-  "Augment 77": {
-    "rating": 300,
-    "endurance": 171,
-    "power": 171,
-    "tertiary": 130
+  "Augment 86 (gold)": {
+    "rating": 318,
+    "endurance": 212,
+    "power": 212,
+    "tertiary": 162
   }
 };
 
@@ -31,7 +31,7 @@ var stim = {
 };
 
 var implant = {
-  "endurance": 1007,
-  "power": 652,
-  "tertiary": 431
+  "endurance": 1512,
+  "power": 981,
+  "tertiary": 640
 };
